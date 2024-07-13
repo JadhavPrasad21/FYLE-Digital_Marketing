@@ -1,11 +1,9 @@
 # FYLE - Digital_Marketing_Agency.
  Fyle is meticulously developed using HTML, CSS, and JavaScript, incorporating Bootstrap for a polished design. This combination ensures a robust and user-friendly interface.
 # Live Preview
-The FYLE App is live and ready for you to explore! Visit [FYLE.](https://fyle-assignment-pj.netlify.app/)
+The FYLE App is live and ready for you to explore! Visit [FYLE.](https://fyle-pjs-digitalmarketingagency.netlify.app/)
 # App Overview
-![Screen_Shot_2021-08-10_at_7 16 53_PM](https://github.com/JadhavPrasad21/Fyle-Assignment/assets/86917788/edaf57c8-cc8d-42f4-9ff5-9aae89e92cee)
-
-
+![Screenshot 2024-07-13 100907](https://github.com/user-attachments/assets/a43b151e-b1bb-4fb5-9635-2c5372c986cd)
 # Features
 - Created a clickable "Contact Us" button that triggers pop-up form submissions are stored using getform.io.
 - Integrated an image slider utilizing Swipper Js for smooth transitions.
